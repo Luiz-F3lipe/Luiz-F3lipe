@@ -25,4 +25,4 @@
   
  ##
   
- ![Snake animation](https://github.com/Luiz-F3lipe/Lui-F3lipe/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Luiz-F3lipe/Luiz-F3lipe/blob/output/github-contribution-grid-snake.svg)
