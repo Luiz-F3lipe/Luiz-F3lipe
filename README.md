@@ -2,7 +2,7 @@
 
 Full-Stack Developer focused on building scalable and high-performance web applications.
 
-Currently working mainly with Laravel + Livewire, Node.js, Angular, React, TypeScript and PostgreSQL, with growing experience in Golang for backend services and ERP systems.
+Currently working mainly with Laravel + Livewire, Node.js, Angular, React, TypeScript and PostgreSQL, with growing experience in backend services and ERP systems.
 
 I enjoy building clean architectures, improving performance and developing real-world business solutions.
 
